@@ -1,0 +1,499 @@
+1. Ensure proper subject-verb-object (SVO) structure.
+   Example: "මම පොතක් කියවමි." is correct. Avoid: "මම කියවමි පොතක්."
+
+2. Avoid redundant particles such as "ක්", "ම", and "ක්වෙ." Use minimal particles.
+   Example: "පොතක් කියවමි." is preferred over "පොතක් කියවමිනි."
+
+3. Use correct verb conjugation depending on tense.
+   Example: Present: "කැවිමි" Past: "කෑවෙමි" Future: "කනවා."
+
+4. Keep sentence length concise. Break long sentences into simpler parts.
+   Example: "මම පොත් දෙකක් කියවා පාඩම් ලිවිය." is preferred over "මම පොත් දෙකක් කියවා සිටිමි එසේ මට පාඩම් ලිවිය."
+
+5. Proper spacing between words is critical.
+   Example: Avoid: "මමපොතක්." Correct: "මම පොතක්."
+
+6. Use the correct plural forms for nouns and adjectives.
+Example: Singular: "පොතක්" → Plural: "පොත්."
+Avoid incorrect forms like: "පොතලා."
+
+7. Ensure agreement between subject and verb in gender and number.
+Example: Masculine: "ඔහු කියවයි." Feminine: "ඇය කියවයි."
+Incorrect: "ඔහු කියවයි ඇය."
+
+8. Use appropriate honorifics based on context and social norms.
+Example: Informal: "ඔබ කුමක් කරයිද?" → Formal: "ඔබ කුමක් කරන්නේද?"
+Avoid mixing informal and formal styles in the same sentence.
+
+9. Avoid mixing spoken and written forms in the same sentence.
+Example: Spoken: "මට බඩගිනියි." Written: "මට ආහාර අභිලාෂය පවතී."
+Do not combine: "මට ආහාර බඩගිනියි."
+
+10. Use the correct cases for nouns (nominative, accusative, etc.) based on context.
+Example: Subject: "මම පොතක් කියවමි." Object: "මට පොතක්."
+Avoid: "මට කියවමි පොතක්."
+
+11. Avoid overuse of emphasis particles like "ම," "ද," and "එ."
+Example: "මම ගමට ගියෙමි" is preferred over "මමම ගමටම ගියෙමිනි."
+
+12. Use proper punctuation to clarify meaning.
+Example: Add commas or full stops where appropriate:
+Correct: "මම, ගමට ගියෙමි."
+Avoid: "මම ගමට ගියෙමි ම."
+
+13. Write numbers in full for formal texts, and use numerals for informal texts.
+Example: Formal: "දහය." Informal: "10."
+Avoid mixing: "දහය 10."
+
+14. Use correct syntax for interrogative sentences.
+Example: Question: "ඔයා කුමක් කරන්නේද?" Avoid: "ඔයා කරන්නේ කුමක්?"
+
+15. Avoid literal translations from other languages.
+Example: Correct Sinhala structure: "ඔයා කාලෙකුට පසුව එනවාද?"
+Avoid: "ඔයා කල් පසුව එනවාද?" (literal translation of "Are you coming after some time?").
+
+16. Avoid unnecessary repetition of words or ideas.
+Example: "මම ගමට ගියෙමි." is preferred over "මම ගමට ගියෙමි ගමට."
+
+17. Correct use of pronouns based on subject, object, or possessive case.
+Example: Subject: "ඔහු." Object: "ඔහුව." Possessive: "ඔහුගේ."
+Avoid: "ඔහු ඔහුව ඔහුගේ."
+
+18. Use correct conjunctions to link phrases and clauses.
+Example: "මම කියවමි සහ ලියමි."
+Avoid: "මම කියවමි ලියමි."
+
+19. Ensure appropriate word order for emphasis when needed.
+Example: Regular: "මම පොතක් කියවමි." Emphatic: "මම කියවමි පොතක්ම."
+Avoid unnecessary emphatic order: "කියවමි මම පොතක්ම."
+
+20. Avoid using colloquial terms in formal writing unless specified.
+Example: Formal: "ආහාර ගනු ලැබේ." Colloquial: "කෑම ගන්නවා."
+Use consistent tone throughout.
+
+---
+
+### 1. **Ensure proper subject-verb-object (SVO) structure for "අපි."**
+- **Example**: "අපි ගමට ගියෙමු." is correct.  
+  - Avoid: "අපි ගියෙමු ගමට."
+
+---
+
+### 2. **Avoid redundant particles with "අපි."**
+- Use only necessary particles like "ක්" or "ම" when required.  
+  - **Example**: "අපි පොතක් කියවමු." is preferred over "අපි පොතක් කියවමිනි."
+
+---
+
+### 3. **Use correct verb conjugation for "අපි" based on tense.**
+- **Present**: "අපි කනවා."  
+- **Past**: "අපි කෑවෙමු."  
+- **Future**: "අපි කන්නෙමු."  
+
+---
+
+### 4. **Keep sentences concise when using "අපි."**
+- **Example**: "අපි ගමට ගියෙමු සහ ආපසු එමු."  
+  - Avoid: "අපි ගමට ගියෙමු එය සම්පූර්ණ කළෙමු පසුව ආපසු එමු."
+
+---
+
+### 5. **Proper spacing between "අපි" and other words.**
+- **Correct**: "අපි ගමට ගියෙමු."  
+  - Avoid: "අපිගමටගියෙමු."
+
+---
+
+### 6. **Use correct plural forms for objects with "අපි."**
+- **Example**: Singular: "අපි පොතක් කියවමු."  
+  - Plural: "අපි පොත් කියවමු."  
+  - Avoid: "අපි පොතලා කියවමු."
+
+---
+
+### 7. **Ensure agreement between "අපි" and the verb in number and tense.**
+- **Example**: "අපි කාලෙමු." (We ate.)  
+  - Avoid: "අපි කෑවෙයි." (Singular verb for plural subject.)
+
+---
+
+### 8. **Use appropriate honorifics for "අපි" in formal contexts.**
+- **Formal**: "අපි පාර්ලිමේන්තුවට ගියෙමු."  
+  - **Informal**: "අපි පාර්ලිමේන්තුවට ගියා."  
+  - Avoid mixing: "අපි ගියෙමු පාර්ලිමේන්තුවට."
+
+---
+
+### 9. **Avoid mixing spoken and written forms for "අපි."**
+- **Spoken**: "අපි දැන් යනවා."  
+  - **Written**: "අපි දැන් යන්නේය."  
+  - Avoid: "අපි යනවා යන්නේය."
+
+---
+
+### 10. **Use correct cases for nouns with "අපි" as subject or object.**
+- **Subject**: "අපි පොතක් කියවමු."  
+  - **Object**: "අපට පොතක් ඕනෑ."  
+  - Avoid: "අපට කියවමු පොතක්."
+
+---
+
+### 11. **Avoid overuse of emphasis particles with "අපි."**
+- **Correct**: "අපි ගමට ගියෙමු."  
+  - Avoid: "අපිම ගමටම ගියෙමිනි."
+
+---
+
+### 12. **Use proper punctuation with "අපි" to clarify meaning.**
+- **Correct**: "අපි, ගමට ගියෙමු."  
+  - Avoid: "අපි ගමට ගියෙමු අපිම."
+
+---
+
+### 13. **Write numbers consistently with "අපි" in formal or informal contexts.**
+- **Formal**: "අපි දහය ක්‍රීඩකයන්ගේ කණ්ඩායමක්."  
+  - **Informal**: "අපි 10 ක්‍රීඩකයින්."  
+  - Avoid: "අපි දහය 10 ක්."
+
+---
+
+### 14. **Form interrogative sentences correctly with "අපි."**
+- **Correct**: "අපි කුමක් කරමුද?"  
+  - Avoid: "අපි කරමුද කුමක්?"
+
+---
+
+### 15. **Avoid literal translations of "අපි" sentences from other languages.**
+- **Example**: Correct Sinhala: "අපි කාලෙකුට පසුව එමුද?"  
+  - Avoid: "අපි කල් පසුව එමුද?" (Literal translation of "We will come later?").
+
+---
+
+### 16. **Avoid unnecessary repetition of "අපි" in a single sentence.**
+- **Correct**: "අපි ගමට ගියෙමු."  
+  - Avoid: "අපි ගමට අපි ගියෙමු."
+
+---
+
+### 17. **Use appropriate pronouns to refer to "අපි" in various cases.**
+- **Subject**: "අපි."  
+  - **Object**: "අපට."  
+  - **Possessive**: "අපේ."  
+  - Avoid: "අපි අපට අපේ."
+
+---
+
+### 18. **Use proper conjunctions to link actions involving "අපි."**
+- **Correct**: "අපි පොත් කියවමු සහ පාඩම් ලිවමු."  
+  - Avoid: "අපි පොත් කියවමු ලිවමු."
+
+---
+
+### 19. **Maintain consistent word order for emphasis when using "අපි."**
+- **Regular**: "අපි ගමට ගියෙමු."  
+  - **Emphatic**: "අපිම ගියෙමු ගමට."  
+  - Avoid: "ගියෙමු අපි ගමටම."
+
+---
+
+### 20. **Avoid colloquial terms with "අපි" in formal writing.**
+- **Formal**: "අපි ආහාර ලබා ගතිමු."  
+  - **Colloquial**: "අපි කෑම ගත්තා."  
+  - Avoid mixing: "අපි කෑම ලබා ගත්තා."
+
+
+21. Use proper noun declensions based on their grammatical role.  
+   Example: Subject: "මම." Object: "මට."  
+22. Avoid unnecessary honorifics with close relationships.  
+   Example: Use "ඔයා" instead of "ඔබ" when addressing a friend.  
+23. Use appropriate reflexive pronouns for clarity.  
+   Example: "ඔහුම" (himself), "ඇයම" (herself).  
+24. Ensure possessive pronouns agree with the noun.  
+   Example: "මගේ පොතක්," not "මගේ පොත්."  
+25. Use "ඔවුන්" for plural humans and "එවා" for non-human objects.  
+   Example: Correct: "ඔවුන් පැමිණියහ."  
+26. Avoid overuse of demonstrative pronouns like "මේ" and "ඒ."  
+27. Place pronouns correctly relative to verbs.  
+   Example: "ඔහු කියවයි පොතක්."  
+28. Use "අපි" for inclusive groups and "අප" for exclusive groups.  
+29. Avoid incorrect pluralization of pronouns.  
+   Example: Incorrect: "ඔබලාගේ." Correct: "ඔවුන්ගේ."  
+30. Use gender-neutral pronouns only when gender is irrelevant.  
+
+31. Use consistent tense throughout a sentence.  
+   Example: Avoid: "ඔහු කියවයි, පසුව කෑවා."  
+32. Ensure verbs agree with subjects in number and gender.  
+33. Use appropriate auxiliary verbs when needed.  
+   Example: "මම ලිව්වේය."  
+34. Avoid combining multiple tenses in a single verb phrase.  
+   Example: "කෙරුණාය" is incorrect. Use "කළේය."  
+35. Use active or passive voice based on clarity.  
+   Example: Active: "මම කෑවා." Passive: "ආහාරය කෑවේ මම."  
+36. Use "කළයුතුය" for necessity and "කියවිය යුතුය" for obligation.  
+37. Conjugate verbs properly for conditional sentences.  
+   Example: "ඔයා එනවා නම්, මම යනවා."  
+38. Use causative verbs correctly.  
+   Example: "කරවයි" (makes do), not "කරයි."  
+39. Avoid redundancy in conjugated verbs.  
+   Example: "කියවමින් කියවීම" is incorrect.  
+40. Use imperatives for commands, avoiding unnecessary politeness.  
+   Example: "එන්න," not "ආයුබෝවන් එන්න."  
+
+41. Place the main verb at the end of the sentence.  
+42. Use subordinate clauses for complex ideas.  
+   Example: "මම දන්නා විදියට, ඔහු එනවා."  
+43. Avoid splitting subject and predicate unnecessarily.  
+   Example: Incorrect: "මම පොතක් කියවමින්, එසේ ලිව්වා."  
+44. Use prepositions correctly based on the case of nouns.  
+   Example: "සඳහා" with dative: "මට."  
+45. Avoid run-on sentences. Break them into smaller, logical parts.  
+46. Maintain parallel structure when listing actions.  
+   Example: "ඔහු කියවයි, ලියයි, අඳින්නයි."  
+47. Use expletives ("ඇත්තෙන්ම") sparingly to emphasize.  
+48. Avoid unnecessary inversions for poetic effect in prose.  
+49. Use interjections appropriately for emotion or emphasis.  
+   Example: "අයියේ! මට උදව් කරන්න."  
+50. Place adverbs close to the verb they modify.  
+  
+51. Use synonyms for variety but ensure they match the tone.  
+52. Avoid archaic words in modern writing unless for style.  
+53. Ensure correct use of homonyms based on context.  
+   Example: "තෙර" (shore) vs. "තේර" (choose).  
+54. Avoid mixing Pali or Sanskrit terms unnecessarily.  
+55. Use regional dialects only when contextually appropriate.  
+56. Avoid using loanwords unless unavoidable.  
+57. Match adjectives to the tone of the subject.  
+   Example: "දකුණු" for formal, "බටහිර" for informal.  
+58. Avoid overloading sentences with multiple adjectives.  
+59. Use "එක්" for singular items and "වෙත" for directions.  
+60. Avoid literal translations from foreign idioms.  
+61. Keep sentence openings diverse. Avoid starting with "මම" repeatedly.  
+62. Use rhetorical questions sparingly.  
+63. Maintain a logical flow between sentences.  
+64. Avoid abrupt transitions without connecting phrases.  
+65. Use metaphors carefully to avoid misinterpretation.  
+66. Ensure that figures of speech do not conflict with literal meaning.  
+67. Avoid casual tone in formal writing.  
+68. Use repetition for emphasis sparingly.  
+69. Match the tone to the audience.  
+70. Use idiomatic expressions to enhance meaning.  
+71. Use full stops for declarative sentences only.  
+72. Use commas to separate clauses appropriately.  
+73. Avoid ellipses (...) unless indicating omission.  
+74. Use quotation marks for dialogue or direct quotes.  
+75. Place punctuation marks within quotation marks.  
+76. Use semicolons to connect related independent clauses.  
+77. Avoid overuse of exclamation marks.  
+78. Use colons for lists or explanations.  
+79. Use parentheses sparingly for additional information.  
+80. Avoid using double punctuation marks.  
+81. Avoid slang in academic or professional writing.  
+82. Use formal salutations in letters and emails.  
+83. Match verb forms to the tone.  
+   Example: Informal: "කොහොමද?" Formal: "ඔබට කුමක් වූවාද?"  
+84. Avoid contractions in formal Sinhala.  
+85. Use respectful language when addressing elders.  
+86. Avoid abbreviations in formal contexts.  
+87. Maintain consistent tone throughout.  
+88. Avoid humor in professional contexts unless appropriate.  
+89. Use "ගෞරව" for respectful contexts.  
+90. Use formal vocabulary for essays or reports.  
+91. Do not use commas instead of full stops.  
+92. Avoid using "ත්" and "ද" interchangeably.  
+93. Do not omit particles where they are necessary.  
+94. Avoid unnecessary foreign expressions.  
+95. Use correct capitalization for proper nouns.  
+96. Avoid using "ඇත්තෙන්ම" unnecessarily in every sentence.  
+97. Do not confuse "අත" (hand) and "අඩ" (foot) in metaphorical use.  
+98. Avoid ending sentences abruptly without a verb.  
+99. Ensure cohesive transitions between paragraphs.  
+100. Proofread to eliminate typos or spacing issues.  
+
+
+### 1. **Subject-Verb Agreement (කර්තෘ-ක්‍රියාව සම්මුතිය)**
+In Sinhala, the verb must agree with the subject in terms of gender, number, and person.
+
+- **Example Rule:**
+  - If the subject (කර්තෘ) is singular and masculine, the verb must also be singular and masculine.
+  - **Correct Example**: 
+    - "මම ගියෙමි" (I went) – Singular, first-person.
+  - **Incorrect Example**:
+    - "මම ගියා" (informal).
+
+- **General Rule Syntax:**
+  - Subject: `සමගාමී`
+  - Verb: `[ගියෙමි, ගියෙමු]` (changes according to subject properties)
+
+---
+
+### 2. **Word Order (වචන පිළිවෙළ)**  
+Sinhala typically follows the **Subject-Object-Verb (SOV)** word order.
+
+- **Rule Syntax**:
+  - `<Subject> <Object> <Verb>`
+  - Example:
+    - **Correct**: "මම පොතක් කියවමි." (I read a book.)
+    - **Incorrect**: "මම කියවමි පොතක්."
+
+---
+
+### 3. **Postpositions and Case Markers (අනුවාදක සහ විභක්තිเครื่อง)**
+Postpositions in Sinhala determine the case of the noun.
+
+- **Example Rule**:
+  - If a noun represents an object, it must end with the accusative case marker `-ට` or `-ව`.  
+    - **Correct**: "මම ගුරුතුමාට ලිපියක් ලිවීය." (I wrote a letter to the teacher.)
+    - **Incorrect**: "මම ගුරුතුමා ලිපියක් ලිවීය."
+
+---
+
+### 4. **Use of Honorifics (ගෞරවාන්විත භාෂාව)**  
+Honorific verbs and pronouns must be used when referring to respected individuals.
+
+- **Rule Syntax**:
+  - If the subject is someone respected, replace neutral verbs with honorific forms.
+  - Example:
+    - **Correct**: "ගුරුතුමා ගියහ." (The teacher went.)
+    - **Incorrect**: "ගුරුතුමා ගියා."
+
+---
+
+### 5. **Negation Rules (නැහැකම් නියමයන්)**  
+In Sinhala, negation is formed by adding `නැහැ` or `නෑ` to the end of the verb.
+
+- **Example Rule**:
+  - A verb in negative form should not coexist with positive adverbs.
+  - **Correct**: "මම කන්නෙ නැහැ." (I do not eat.)
+  - **Incorrect**: "මම කන්නෙ නැහැ අතිශය වේගයෙන්." (Logical error: I do not eat very quickly.)
+
+---
+
+### 6. **Pluralization Rules (බහුවචන නියම)**  
+Sinhala plural nouns usually take the suffix `-වරු` (for people) or `-ගොඩ` (for objects/animals).
+
+- **Example Rule**:
+  - If a noun has the suffix `-වරු`, the verb must agree in plural.
+    - **Correct**: "ගුරුවරයාගෙන් පිටවූවරු ගුරුගෙදරට ආවහ." (Teachers came to the staff room.)
+    - **Incorrect**: "ගුරුගොඩ."
+
+---
+
+### 7. **Adjective-Noun Agreement (විශේෂණ-නාම සම්මුතිය)**  
+In Sinhala, adjectives must agree with nouns in gender and number.
+
+- **Example Rule**:
+  - If the noun is singular and feminine, the adjective must be in feminine singular form.
+    - **Correct**: "ලස්සන ගැහැණියක්." (A beautiful woman.)
+    - **Incorrect**: "ලස්සන ගැහැණිය."
+
+---
+
+### 8. **Tense Agreement (කාල සම්මුතිය)**  
+The tense of the verb must match the context of the sentence.
+
+- **Example Rule**:
+  - If the context refers to a past event, the verb must be in the past tense.
+    - **Correct**: "මම පෙරේදා විදුහලට ගියෙමි." (I went to school yesterday.)
+    - **Incorrect**: "මම පෙරේදා විදුහලට යන්නෙමි." (I will go to school yesterday.)
+
+
+### 1. **Subject-Verb Agreement with "අපි"**
+In Sinhala, when "අපි" (we) is the subject, the verb must agree in **plural first-person form**.
+
+- **Example Rule**:
+  - If the subject is "අපි," the verb must reflect plural action.
+  - **Correct**: "අපි යමු." (We will go.)
+  - **Incorrect**: "අපි යනවා." (This is singular or informal usage.)
+
+---
+
+### 2. **Inclusive vs. Exclusive "We" (අපි-අපේ සම්බන්ධතාවය)**
+Sinhala distinguishes between **inclusive "අපි"** (we, including the listener) and **exclusive "අපි"** (we, excluding the listener).
+
+- **Example Rule**:
+  - Use inclusive language (e.g., "අපි එකට") when including the listener.
+    - **Correct**: "අපි එකට යමු." (Let's go together.)
+  - Use exclusive language when the listener is not part of the group.
+    - **Correct**: "අපි ගෙදරට යමු." (We [not including you] are going home.)
+
+---
+
+### 3. **Use of "අපේ" as Possessive Pronoun**
+When "අපි" (we) is used in possessive contexts, it changes to "අපේ" (our).
+
+- **Example Rule**:
+  - Possessive nouns must follow "අපේ."
+    - **Correct**: "අපේ ගුරුවරයා." (Our teacher.)
+    - **Incorrect**: "අපි ගුරුවරයා."
+
+---
+
+### 4. **Plurality with Objects (අපි සහ වස්තු ප්‍රභේදය)**
+When "අපි" (we) is used with objects, the plural form of the object must match the subject's plurality.
+
+- **Example Rule**:
+  - Use plural objects for plural subjects.
+    - **Correct**: "අපි පොත් කියවමු." (We read books.)
+    - **Incorrect**: "අපි පොත කියවමු." (We read a book.) – Mismatch in plurality.
+
+---
+
+### 5. **Politeness and Formality with "අපි"**
+In formal contexts, the verbs associated with "අපි" should reflect politeness or respect.
+
+- **Example Rule**:
+  - Add polite suffixes like "මු" or "මුහුන්."
+    - **Correct**: "අපි යමු." (Let us go.)
+    - **Incorrect**: "අපි යනවා." (Informal or conversational tone.)
+
+---
+
+### 6. **Negation with "අපි"**
+For negations, "අපි" takes verbs in their negative form, often ending in "නෑ" or "නැහැ."
+
+- **Example Rule**:
+  - Negation must follow "අපි" directly.
+    - **Correct**: "අපි කන්නෙ නැහැ." (We do not eat.)
+    - **Incorrect**: "අපි කෑම නැහැ." (Incorrect form for negation.)
+
+---
+
+### 7. **Verb Tense with "අපි"**
+The verb tense for "අපි" must align with the time frame of the action.
+
+- **Example Rule**:
+  - Use future tense for future actions.
+    - **Correct**: "අපි වැඩට යන්නෙමු." (We will go to work.)
+  - Use past tense for past actions.
+    - **Correct**: "අපි වැඩට ගියෙමු." (We went to work.)
+    - **Incorrect**: "අපි වැඩට යන්නෙමු." (Logical error in tense.)
+
+---
+
+### 8. **Imperative Sentences with "අපි"**
+When giving commands or making requests involving "අපි," verbs should be in imperative form with inclusivity.
+
+- **Example Rule**:
+  - Use the inclusive imperative.
+    - **Correct**: "අපි එකට කෑම කමු." (Let us eat together.)
+    - **Incorrect**: "අපි කෑම කනවා." (Not imperative.)
+
+---
+
+### 9. **Emphasis and Reflexivity with "අපිම"**
+The emphatic form "අපිම" (we ourselves) is used to emphasize the subject.
+
+- **Example Rule**:
+  - Use "අපිම" when emphasizing the action by "we."
+    - **Correct**: "අපිම වැඩේ කළෙමු." (We ourselves did the work.)
+    - **Incorrect**: "අපි වැඩේ කළෙමු." (Lacks emphasis.)
+
+---
+
+### 10. **Coordination with Other Pronouns (අපි සහ අනෙකුත් පදයෝගය)**
+When combining "අපි" with other pronouns or nouns, conjunctions like "සහ" or "එකතුවෙන්" must be used.
+
+- **Example Rule**:
+  - Combine using appropriate conjunctions.
+    - **Correct**: "අපි සහ ඔවුන් ගියෙමු." (We and they went.)
+    - **Incorrect**: "අපි ඔවුන් ගියෙමු." (Missing conjunction.)

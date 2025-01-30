@@ -1,0 +1,110 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Sinhala Grammar Checker</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            height: 100vh;
+            background-color: #f4f4f4;
+        }
+
+        .container {
+            background: #fff;
+            padding: 20px;
+            margin: 10px;
+            border-radius: 8px;
+            box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+            width: 100%;
+            max-width: 500px;
+        }
+
+        h1 {
+            text-align: center;
+            color: #333;
+        }
+
+        textarea {
+            width: 100%;
+            margin: 10px 0;
+            padding: 10px;
+            border: 1px solid #ddd;
+            border-radius: 4px;
+            font-size: 16px;
+        }
+
+        button {
+            width: 100%;
+            padding: 10px;
+            border: none;
+            border-radius: 4px;
+            background-color: #28a745;
+            color: #fff;
+            font-size: 16px;
+            cursor: pointer;
+        }
+
+        button:hover {
+            background-color: #218838;
+        }
+
+        .output {
+            margin-top: 20px;
+            background: #f9f9f9;
+            padding: 10px;
+            border: 1px solid #ddd;
+            border-radius: 4px;
+            min-height: 50px;
+            font-size: 16px;
+            color: #333;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>Grammar Checker</h1>
+        <textarea id="checkText" placeholder="Enter text to check grammar"></textarea>
+        <button onclick="checkGrammar()">Check Grammar</button>
+        <div class="output" id="grammarOutput">Grammar suggestions will appear here...</div>
+    </div>
+
+    <script>
+        async function checkGrammar() {
+            const checkText = document.getElementById('checkText').value.trim();
+            const grammarOutput = document.getElementById('grammarOutput');
+
+            if (!checkText) {
+                grammarOutput.textContent = "Please enter text to check grammar.";
+                return;
+            }
+
+            try {
+                grammarOutput.textContent = "Checking grammar...";
+                const response = await fetch('http://127.0.0.1:5000/check-grammar', {
+                    method: 'POST',
+                    headers: { 'Content-Type': 'application/json' },
+                    body: JSON.stringify({ text: checkText })
+                });
+
+                const data = await response.json();
+                if (data.suggestions) {
+                    grammarOutput.textContent = `Suggestions: ${data.suggestions}`;
+                } else if (data.error) {
+                    grammarOutput.textContent = `Error: ${data.error}`;
+                } else {
+                    grammarOutput.textContent = "Unexpected response.";
+                }
+            } catch (error) {
+                grammarOutput.textContent = `Failed to check grammar: ${error.message}`;
+            }
+        }
+    </script>
+</body>
+</html>
